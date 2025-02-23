@@ -77,7 +77,7 @@ var typed = new Typed(".typing-text", {
         "Frontend Development 👨🏻‍💻",
         "SEO Optimization 📈",
         "WordPress Customization 🖥️",
-        "Creating Responsive Websites 🌐"
+        "Responsive Developments 🌐"
     ],
     loop: true,
     typeSpeed: 50,
