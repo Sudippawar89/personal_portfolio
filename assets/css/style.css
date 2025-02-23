@@ -379,7 +379,7 @@ header .navbar ul li a:hover {
 /* hero media queries starts*/
 @media (max-width: 450px) {
   .home .btn {
-    margin: 4rem 0;
+    margin: 3rem 0;
   }
 
   .socials {
