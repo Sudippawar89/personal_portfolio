@@ -12,7 +12,7 @@
   {
     "name": "Personal Portfolio Website",
     "desc": "A personal portfolio showcasing skills and projects. Just scroll down—you're already here!",
-    "image": "portfolio1",
+    "image": "https://sudippawar89.github.io/sudips_portfolio/assets/images/projects/portfolio1.png",
     "category": "basicweb",
     "links": {
       "view": "https://sudippawar89.github.io/portfolio.github.io/",
@@ -22,7 +22,7 @@
   {
     "name": "Flipkart MERN",
     "desc": "A full-stack Flipkart clone with an admin dashboard and Paytm payment gateway, built using the MERN stack.",
-    "image": "flipkart",
+    "image": "https://sudippawar89.github.io/sudips_portfolio/assets/images/projects/flipkart.png",
     "category": "mern",
     "links": {
       "view": "#",
@@ -32,7 +32,7 @@
   {
     "name": "ResumeGen",
     "desc": "A simple ReactJS tool that helps generate a customized resume in minutes.",
-    "image": "resumegen",
+    "image": "https://sudippawar89.github.io/sudips_portfolio/assets/images/projects/resumegen.png",
     "category": "mern",
     "links": {
       "view": "#",
@@ -42,7 +42,7 @@
   {
     "name": "SCMS Hyderabad Website",
     "desc": "Contributed to the SCMS Hyderabad website using CodeIgniter, adding dynamic features and improving navigation.",
-    "image": "scms",
+    "image": "https://sudippawar89.github.io/sudips_portfolio/assets/images/projects/scms.png",
     "category": "basicweb",
     "links": {
       "view": "https://scmshyd.edu.in/",
@@ -52,7 +52,7 @@
   {
     "name": "SIT Nagpur",
     "desc": "Developed key features for the SIT Nagpur website using Laravel, enhancing functionality and user experience.",
-    "image": "sitnagpur",
+    "image": "https://sudippawar89.github.io/sudips_portfolio/assets/images/projects/sitnagpur.png",
     "category": "basicweb",
     "links": {
       "view": "https://sitnagpur.edu.in/",
@@ -62,7 +62,7 @@
   {
     "name": "Balaji Law College",
     "desc": "Designed a landing page for easy navigation and a seamless digital experience.",
-    "image": "Balajilawlp",
+    "image": "https://sudippawar89.github.io/sudips_portfolio/assets/images/projects/Balajilawlp.png",
     "category": "basicweb",
     "links": {
       "view": "https://balajilaw.edu.in/",
@@ -72,7 +72,7 @@
   {
     "name": "Sai Sudha Lawns Landing Page",
     "desc": "Created a responsive landing page using Bootstrap 5.",
-    "image": "saisudha",
+    "image": "https://sudippawar89.github.io/sudips_portfolio/assets/images/projects/saisudha.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -82,7 +82,7 @@
   {
     "name": "SRV Edge",
     "desc": "Developed several pages for the SRV Media website using WordPress and the Avada theme, ensuring a responsive and user-friendly design.",
-    "image": "srv",
+    "image": "https://sudippawar89.github.io/sudips_portfolio/assets/images/projects/srv.png",
     "category": "basicweb",
     "links": {
       "view": "https://www.srvedge.com/",
