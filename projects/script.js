@@ -2,8 +2,8 @@ function showProjects(projects) {
     let projectsContainer = document.querySelector(".work .box-container");
     let projectsHTML = ""; 
     projects.forEach(project => {
-        // Ensure that we directly use the image URL from JSON
-        let imageUrl = project.image.startsWith("http") ? project.image : `assets/images/projects/${project.image}`;
+        // Directly use the image path from JSON (No additional concatenation)
+        let imageUrl = project.image; 
 
         projectsHTML += `
         <div class="grid-item ${project.category}">
