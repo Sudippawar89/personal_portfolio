@@ -174,37 +174,13 @@
 
   <!-- work project section starts -->
   <section class="work" id="work">
-
     <h2 class="heading"><i class="fas fa-laptop-code"></i> Projects <span>Made</span></h2>
 
-    <div class="box-container">
+    <!-- This container will be filled dynamically via JavaScript -->
+    <div class="box-container"></div>
 
-      <div class="box tilt">
-        <img draggable="false" src="" alt="" />
-        <div class="content">
-          <div class="tag">
-            <h3>Portfolio Website</h3>
-          </div>
-          <div class="desc">
-            <p>Personal portfolio website. Don't need much info about it, just scroll down. You're here only!</p>
-            <div class="btns">
-              <a href="https://sudippawar89.github.io/portfolio.github.io/" class="btn" target="_blank"><i
-                  class="fas fa-eye"></i> View</a>
-             
-            </div>
-          </div>
-        </div>
-      </div>
+</section>
 
-    </div>
-
-    <!--     <div class="viewall">
-      <a href="/projects" class="btn"><span>View All</span>
-        <i class="fas fa-arrow-right"></i>
-      </a>
-    </div> -->
-
-  </section>
   <!-- work project section ends -->
 
   <!-- experience section starts -->
@@ -404,3 +380,13 @@
 </body>
 
 </html>
+
+
+
+<script src="assets/js/projects.js"></script>
+<script>
+    fetch("assets/json/projects.json")
+        .then(response => response.json())
+        .then(data => showProjects(data))
+        .catch(error => console.error("Error loading projects:", error));
+</script>
