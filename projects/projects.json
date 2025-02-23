@@ -1,8 +1,8 @@
 [
   {
     "name": "Food Delivery Website",
-    "desc": "Built a food delivery system in CodeIgniter with features like user authentication, restaurant management, order processing, and payment integration for a smooth experience.",
-    "image": "https://sudippawar89.github.io/personal_portfolio/assets/images/projects/sitnagpur.png",
+    "desc": "Built a food delivery system in CodeIgniter with features like user authentication, restaurant management and order processing for a smooth experience.",
+    "image": "food",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -39,7 +39,15 @@
       "code": "#"
     }
   },
- C
+  {
+    "name": "SCMS Hyderabad Website",
+    "desc": "Contributed to the SCMS Hyderabad website using CodeIgniter, adding dynamic features and improving navigation.",
+    "image": "scms",
+    "category": "basicweb",
+    "links": {
+      "view": "https://scmshyd.edu.in/",
+      "code": "#"
+    }
   },
   {
     "name": "SIT Nagpur",
