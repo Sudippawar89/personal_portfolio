@@ -8,6 +8,22 @@
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
         "name": "Laravel",
         "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
     },
@@ -20,19 +36,9 @@
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
     },
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    
-    {
         "name": "PHP",
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
     },
-    
     {
         "name": "MaterialUI",
         "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
@@ -40,10 +46,6 @@
     {
         "name": "Bootstrap5",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
     },
     {
         "name": "HTML5",
@@ -68,9 +70,5 @@
     {
         "name": "Cloud Computing",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     }
 ]
