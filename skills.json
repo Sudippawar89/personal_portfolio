@@ -1,74 +1,98 @@
 [
     {
-        "name": "Git",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-    },
-    {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
-    },
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    {
-        "name": "Laravel",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
-    },
-    {
-        "name": "CodeIgniter",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    },
-    {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
-    },
-    {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
-    },
-    {
-        "name": "Bootstrap5",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
         "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "icon": "https://img.icons8.com/color/48/html-5--v1.png"
     },
     {
         "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+        "icon": "https://img.icons8.com/color/48/css3.png"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
     },
     {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+        "name": "Bootstrap5",
+        "icon": "https://img.icons8.com/color/48/bootstrap.png"
     },
     {
         "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+        "icon": "https://img.icons8.com/color/48/sass.png"
+    },
+    {
+        "name": "JQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "NextJS",
+        "icon": "./assets/images/logo/next-js.webp"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/wordpress.png"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://img.icons8.com/fluency/48/laravel.png"
+    },
+    {
+        "name": "CodeIgniter",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"
+    },
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/material-ui.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/typescript.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/nodejs.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/php-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/python--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/mysql-logo.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/mongodb.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/ios-filled/48/ffffff/github.png"
     },
     {
         "name": "Cloud Computing",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+        "icon": "https://img.icons8.com/ios-filled/48/ffffff/cloud-computing.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/docker.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/figma--v1.png"
+    },
+    {
+        "name": "Zoho",
+        "icon": "./assets/images/logo/zoho.webp"
     }
 ]
