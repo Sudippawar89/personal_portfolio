@@ -72,12 +72,12 @@ document.addEventListener('visibilitychange',
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
     strings: [
-        "React Development ⚛️",
-        "UI Design 🎨",
-        "Frontend Coding 👨🏻‍💻",
-        "SEO Boost 📈",
+        "Next.js Ecosystem ⚛️",
+        "UI/UX Excellence 🎨",
+        "Frontend Engineering 👨🏻‍💻",
+        "Scalable Web Apps 📈",
         "WordPress Customization 🖥️",
-        "Responsive Design 🌐"
+        "Modern Digital Experiences 🌐"
     ],
     loop: true,
     typeSpeed: 50,
