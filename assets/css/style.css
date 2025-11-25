@@ -1459,3 +1459,11 @@ form .button-area {
     margin: 1rem 1rem 1rem 0rem;
   }
 }
+
+
+
+#skillsContainer img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
