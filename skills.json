@@ -29,7 +29,7 @@
     },
     {
         "name": "NextJS",
-        "icon": "./assets/images/logo/next-js.webp"
+        "icon": "./assets/images/next-js.webp"
     },
     {
         "name": "WordPress",
@@ -93,6 +93,6 @@
     },
     {
         "name": "Zoho",
-        "icon": "./assets/images/logo/zoho.webp"
+        "icon": "./assets/images/zoho.webp"
     }
 ]
