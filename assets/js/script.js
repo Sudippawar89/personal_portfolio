@@ -180,24 +180,7 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 // window.onload = fadeOut;
 // pre loader end
 
-// disable developer mode
-document.onkeydown = function (e) {
-    if (e.keyCode == 123) {
-        return false;
-    }
-    if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
-        return false;
-    }
-    if (e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
-        return false;
-    }
-    if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
-        return false;
-    }
-    if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
-        return false;
-    }
-}
+
 
 // Start of Tawk.to Live Chat
 // var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
@@ -258,3 +241,41 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
+
+
+
+
+
+
+
+
+/* ===== Certification cards fade-in on scroll ===== */
+(function () {
+    const certCards = document.querySelectorAll('.cert-card');
+
+    if (!certCards.length) return;
+
+    if ('IntersectionObserver' in window) {
+        const observer = new IntersectionObserver(function (entries, obs) {
+            entries.forEach(function (entry) {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('cert-card--visible');
+                    entry.target.classList.remove('cert-card--hidden');
+                    obs.unobserve(entry.target);
+                }
+            });
+        }, {
+            threshold: 0.2
+        });
+
+        certCards.forEach(function (card) {
+            observer.observe(card);
+        });
+    } else {
+        // Fallback for older browsers
+        certCards.forEach(function (card) {
+            card.classList.add('cert-card--visible');
+            card.classList.remove('cert-card--hidden');
+        });
+    }
+})();
