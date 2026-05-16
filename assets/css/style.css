@@ -345,6 +345,7 @@ header .navbar ul li a:hover {
   -webkit-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
+  padding: 1rem;
 }
 
 .social-icons a:active,
