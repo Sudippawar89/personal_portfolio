@@ -1705,3 +1705,27 @@ form .button-area {
     font-size: 1rem;
   }
 }
+
+/* ===== Mobile Horizontal Scroll Certification Section ===== */
+@media (max-width: 768px) {
+
+  .cert-section .cert-grid {
+    display: flex;
+    overflow-x: auto;
+    gap: 16px;
+    padding-bottom: 10px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .cert-section .cert-grid::-webkit-scrollbar {
+    display: none;
+  }
+
+  .cert-section .cert-card {
+    min-width: 100%;
+    flex: 0 0 100%;
+    scroll-snap-align: center;
+  }
+
+}
