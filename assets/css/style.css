@@ -1526,7 +1526,7 @@ form .button-area {
 
 .cert-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 2.2rem;
   margin-top: 2.5rem;
 }
